@@ -1,0 +1,3 @@
+[submodule "Assets/TEDCore"]
+	path = Assets/TEDCore
+	url = https://github.com/ted10401/TEDCore.git
